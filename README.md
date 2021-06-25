@@ -6,4 +6,4 @@ This is a pastebin for the modern web. It is fast, has a cool design and can be 
 
 ![](yasosu.png)
 
-![](https://komarev.com/ghpvc/?username=dubzer&label=Some+magic+counter)
+![](https://count.getloli.com/get/@dubzer?theme=rule34)
